@@ -1,0 +1,3 @@
+
+class FsmEvent:
+    pass
